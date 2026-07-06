@@ -3,7 +3,7 @@ version: 0.2
 env:
   variables:
     AWS_DEFAULT_REGION: us-east-1
-    IMAGE_REPO_NAME: product-service
+    IMAGE_REPO_NAME: alok-product-service
     IMAGE_TAG: latest
 
 phases:
